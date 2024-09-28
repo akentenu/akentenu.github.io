@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://akentenu.github.io/sitemap.akentenu.gz
+Sitemap: https://akentenu.github.io/app/sitemap.akentenu.gz
+Sitemap: https://akentenu.github.io/assets/sitemap.akentenu.gz
+Sitemap: https://akentenu.github.io/css/sitemap.akentenu.gz
+Sitemap: https://akentenu.github.io/data/sitemap.akentenu.gz
+Sitemap: https://akentenu.github.io/includes/sitemap.akentenu.gz
+Sitemap: https://akentenu.github.io/item/sitemap.akentenu.gz
+Sitemap: https://akentenu.github.io/src/sitemap.akentenu.gz
